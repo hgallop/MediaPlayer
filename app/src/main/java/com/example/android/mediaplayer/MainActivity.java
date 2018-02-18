@@ -7,7 +7,7 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
-    MediaPlayer mediaPlayer;
+    private MediaPlayer mediaPlayer;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
