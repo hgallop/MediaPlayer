@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">24dp</dimen>
+    <dimen name="pad">16dp</dimen>
+    <dimen name="text">30sp</dimen>
+    <dimen name="buttonW">270dp</dimen>
+    <dimen name="buttonH">60dp</dimen>
+    <dimen name="stroke">3dp</dimen>
+    <dimen name="rad1">25dp</dimen>
+    <dimen name="rad2">50dp</dimen>
+</resources>
